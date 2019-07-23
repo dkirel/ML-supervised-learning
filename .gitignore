@@ -1,0 +1,7 @@
+*.docx
+*.pdf
+*.csv
+*.zip
+.DS_Store
+.ipynb_checkpoints
+submit
